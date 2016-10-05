@@ -1,4 +1,4 @@
-# Factorial
+# Palindrome
 
 #### By _**Sky Rousse, Caleb Stokka**_
 
