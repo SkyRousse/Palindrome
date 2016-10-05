@@ -4,7 +4,7 @@
 
 ## Description
 
-__ JS practice | A web page to identify whether or not a word is a palindrome__
+__JS practice | A web page to identify whether or not a word is a palindrome__
 
 ## Setup/Installation Requirements
 
